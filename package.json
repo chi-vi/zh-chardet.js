@@ -1,0 +1,29 @@
+{
+  "name": "zh-chardet",
+  "version": "1.0.0",
+  "description": "Pure JS Chinese character encoding detector",
+  "main": "zh-chardet.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chi-vi/zh-chardet.js.git"
+  },
+  "keywords": [
+    "chinese",
+    "encoding",
+    "charset",
+    "detect",
+    "gbk",
+    "big5",
+    "utf-8"
+  ],
+  "author": "NPN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chi-vi/zh-chardet.js/issues"
+  },
+  "homepage": "https://github.com/chi-vi/zh-chardet.js#readme",
+  "type": "module"
+}
